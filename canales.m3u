@@ -1,0 +1,71 @@
+EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.reduno.com.bo/img/estructura/og_image.jpg" group-title="TODOS",RED UNO 
+https://stream-02.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLg3NI3v1kvTpehFEz8QIYtk)/dm/3/x828xvr/d/live-1.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Telepais_Logo_unitel.jpg" group-title="TODOS",UNITEL
+https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZWFEOoZHGTm8Rw45ew3h7lY)/dm/3/x7vsfua/d/live-3.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/BolivisionHD.png" group-title="TODOS",BOLIVISION
+https://bo-bolivision-lapaz-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjMzMzA0MjY0LCJzZXNzaW9uIjoiMTgxLjE4OC4xNzguMzEiLCJ3aGl0ZWxpc3QiOlsiMTgxLjE4OC4xNzguMzEiXX0sInNpZ25hdHVyZSI6IjcyMDJjMDMwZTFhNjU1ZWE0ZGQzYjA2YzcyMWRjNGUwZjM4YzUwNTUifQ==
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Nueva_imagen_Bolivia_TV.jpg" group-title="TODOS",BOLIVIA TV
+https://5ca39be538307.streamlock.net/boliviatv/videoboliviatv/chunklist_w415540727.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMy8yMDIxIDEwOjIxOjQ1IFBNJmhhc2hfdmFsdWU9VW94ejhzMTVFMnF3Q0E2Szl2bW9lZz09JnZhbGlkbWludXRlcz01MCZpZD0%3D
+
+
+#EXTINF:-1 tvg-logo="https://comteco.com.bo/img/upload/canales/e9mHku.png" group-title="TODOS",BOLIVIA TV 7.2
+https://video1.getstreamhosting.com:1936/8224/8224/chunklist_w1951617456.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.boliviaentusmanos.com/amarillas1/businesscard/imagenes/tvu1.jpg" group-title="TODOS",CANAL 13
+http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/chunklist_w1969309247.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.detalle.cotes.net.bo/app/public/appWeb_/assets/images/canales/127.png" group-title="TODOS",XTO TV CRISTIANO
+http://www.channel.tevemi.com:1935/XtoTv/XtoTv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/RTP_Bolivia_Hd.png" group-title="TODOS",RTP 4
+http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w1020518131.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://px.cdn.reduno.com.bo/reduno/102020/1602889592157.webp?cw=312&ch=175&extw=jpg" group-title="TODOS",CANAL 11
+http://136.243.3.70:1935/RedUno/RedUno/chunklist_w1847454163.m3u8
+
+
+#EXTINF:-1 tvg-logo="LOGO" group-title="CATEGORIA",NOMBRE
+
+
+#EXTINF:-1 tvg-logo="LOGO" group-title="CATEGORÍA",NOMBRE
+
+
+#EXTINF:-1 tvg-logo="LOGO" group-title="CATEGORIA",NOMBRE
+
+
+#EXTINF:-1 tvg-logo="LOGO" group-title="CATEGORIA",NOMBRE
+
+
+#EXTINF:-1 tvg-logo="LOGO" group-title="CATEGORÍA",NOMBRE
+
+
+#EXTINF:-1 tvg-logo="LOGO" group-title="CATEGORIA",NOMBRE
+
+
+#EXTINF:-1 tvg-logo="LOGO" group-title="CATEGORIA",NOMBRE
+
+
+#EXTINF:-1 tvg-logo="LOGO" group-title="CATEGORÍA",NOMBRE
+
+
+#EXTINF:-1 tvg-logo="LOGO" group-title="CATEGORIA",NOMBRE
+
+
+#EXTINF:-1 tvg-logo="LOGO" group-title="CATEGORIA",NOMBRE
+
+
+#EXTINF:-1 tvg-logo="LOGO" group-title="CATEGORÍA",NOMBRE
+
+
+#EXTINF:-1 tvg-logo="LOGO" group-title="CATEGORIA",NOMBRE
